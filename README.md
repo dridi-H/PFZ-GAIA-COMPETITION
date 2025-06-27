@@ -62,7 +62,7 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 *Customizable user profiles with follower systems and content discovery features*
 
 #### Post Creation & Management
-![Create Post](INTERFACES/Creat-post-1.png) 
+![Create Post](INTERFACES/Create-post-1.png) 
 *Rich media post creation with image upload and detailed post management*
 
 </div>
@@ -105,11 +105,11 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 <div align="center">
 
 #### Login System
-![Sign In](interfaces/signin.png)
+![Sign In](interfaces/Sign-in.png)
 *Secure authentication with Supabase integration and form validation*
 
 #### User Registration
-![Sign Up](interfaces/signup.png)
+![Sign Up](interfaces/Sign-up.png)
 *Comprehensive user registration with profile creation and email verification*
 
 </div>
