@@ -65,6 +65,15 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 ![Create Post](INTERFACES/Create-post-1.png) 
 *Rich media post creation with image upload and detailed post management*
 
+#### Marketplace Management
+![Marketplace Listing](INTERFACES/Market-place.png)  
+*Product listing creation with image upload, pricing, and inventory management*
+
+#### Messenger Interface
+![Messenger Chat](INTERFACES/messenger.png)  
+*Real-time messaging with file sharing, media attachments, and conversation management*
+
+
 </div>
 
 ### 📊 IoT Dashboard & Real-time Monitoring
@@ -105,11 +114,11 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 <div align="center">
 
 #### Login System
-![Sign In](interfaces/Sign-in.png)
+![Sign In](INTERFACES/Sign-in.png)
 *Secure authentication with Supabase integration and form validation*
 
 #### User Registration
-![Sign Up](interfaces/Sign-up.png)
+![Sign Up](INTERFACES/Sign-up.png)
 *Comprehensive user registration with profile creation and email verification*
 
 </div>
@@ -119,13 +128,13 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 <div align="center">
 
 #### User Directory
-![All Users](interfaces/users.png)
+![All Users](INTERFACES/users.png)
 *Community user directory with search and filtering capabilities*
 
 
 
 #### User Settings
-![User Settings](interfaces/Edit-profile.png)
+![User Settings](INTERFACES/Edit-profile.png)
 *Comprehensive user profile management and settings configuration*
 
 </div>
