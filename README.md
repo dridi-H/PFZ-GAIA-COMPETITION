@@ -54,15 +54,15 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 <div align="center">
 
 #### Home Feed & Social Interactions
-![Home Feed](interfaces/homepage.png)
+![Home Feed](INTERFACES/Home.png)
 *Dynamic social feed with infinite scroll, post interactions, and community engagement*
 
 #### User Profiles & Content Discovery
-![User Profile](interfaces/profile.png) ![Explore Page](interfaces/explore.png)
+![User Profile](INTERFACES/profile.png) 
 *Customizable user profiles with follower systems and content discovery features*
 
 #### Post Creation & Management
-![Create Post](interfaces/createpost.png) ![Post Details](interfaces/postdetails.png)
+![Create Post](INTERFACES/Creat-post-1.png) 
 *Rich media post creation with image upload and detailed post management*
 
 </div>
@@ -71,20 +71,20 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 
 <div align="center">
 
-#### Main IoT Dashboard
-![IoT Dashboard Overview](interfaces/iot/iot-dashboard-overview.png)
-*Comprehensive real-time monitoring of marine sensors and environmental data*
 
-#### Sensor Data Visualization
-![Sensor Data](interfaces/iot/sensor-data-visualization.png)
-*Live sensor readings including temperature, pH, salinity, and water quality metrics*
+
+
 
 #### Environmental Monitoring
-![Environmental Data](interfaces/iot/environmental-monitoring.png)
+![Environmental Data](INTERFACES/EO-overview.png)
 *Real-time environmental condition tracking with alerts and historical trends*
 
+#### Sensor Data Visualization
+![Sensor Data](INTERFACES/Dashboard-1.png.png)
+*Live sensor readings including temperature, pH, and water quality metrics*
+
 #### Thermal Imaging System
-![Thermal Imaging](interfaces/iot/thermal-imaging.png)
+![Thermal Imaging](INTERFACES/Dashboard-2.png.png)
 *Advanced thermal sensor visualization with 8x8 thermal arrays and heatmap generation*
 
 </div>
@@ -94,12 +94,9 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 <div align="center">
 
 #### PFZ Prediction Interface
-![PFZ Predictions](interfaces/pfz-prediction.png)
+![PFZ Predictions](INTERFACES/PFZ.png)
 *Interactive machine learning interface for Potential Fishing Zone predictions*
 
-#### Geospatial Analysis
-![Map Analysis](interfaces/map-analysis.png)
-*Advanced geospatial analysis with Tunisia coastline integration and environmental data overlay*
 
 </div>
 
@@ -122,15 +119,13 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 <div align="center">
 
 #### User Directory
-![All Users](interfaces/allusers.png)
+![All Users](interfaces/users.png)
 *Community user directory with search and filtering capabilities*
 
-#### Saved Content
-![Saved Posts](interfaces/saved.png)
-*Personal content curation with saved posts and bookmarking system*
+
 
 #### User Settings
-![User Settings](interfaces/usersettings.png)
+![User Settings](interfaces/Edit-profile.png)
 *Comprehensive user profile management and settings configuration*
 
 </div>
