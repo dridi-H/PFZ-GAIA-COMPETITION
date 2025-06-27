@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Wita Logo](social_media_app/public/assets/icons/fish_122861.svg)
 
 **Hwita** is a comprehensive full-stack web application that combines social media features with advanced marine ecosystem monitoring and prediction capabilities. The platform integrates real-time IoT data, satellite Earth Observation (EO) analysis, machine learning predictions for Potential Fishing Zones (PFZ), and a vibrant community marketplace.
 
@@ -66,7 +65,7 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 *Rich media post creation with image upload and detailed post management*
 
 #### Marketplace Management
-![Marketplace Listing](INTERFACES/Market-place.png)  
+![Marketplace Listing](INTERFACES/Market-place-overview.png)  
 *Product listing creation with image upload, pricing, and inventory management*
 
 #### Messenger Interface
@@ -89,11 +88,11 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 *Real-time environmental condition tracking with alerts and historical trends*
 
 #### Sensor Data Visualization
-![Sensor Data](INTERFACES/Dashboard-1.png.png)
+![Sensor Data](INTERFACES/Dashboard-1.png)
 *Live sensor readings including temperature, pH, and water quality metrics*
 
 #### Thermal Imaging System
-![Thermal Imaging](INTERFACES/Dashboard-2.png.png)
+![Thermal Imaging](INTERFACES/Dashboard-2.png)
 *Advanced thermal sensor visualization with 8x8 thermal arrays and heatmap generation*
 
 </div>
