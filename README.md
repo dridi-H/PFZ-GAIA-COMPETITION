@@ -1,10 +1,10 @@
-# 🌊 Wita - Marine Ecosystem and Social Platform
+# 🌊 Hwita - Marine Ecosystem and Social Platform
 
 <div align="center">
 
-![Wita Logo](social_media_app/public/assets/icons/logo.svg)
+![Wita Logo](social_media_app/public/assets/icons/fish_122861.svg)
 
-**Wita** is a comprehensive full-stack web application that combines social media features with advanced marine ecosystem monitoring and prediction capabilities. The platform integrates real-time IoT data, satellite Earth Observation (EO) analysis, machine learning predictions for Potential Fishing Zones (PFZ), and a vibrant community marketplace.
+**Hwita** is a comprehensive full-stack web application that combines social media features with advanced marine ecosystem monitoring and prediction capabilities. The platform integrates real-time IoT data, satellite Earth Observation (EO) analysis, machine learning predictions for Potential Fishing Zones (PFZ), and a vibrant community marketplace.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
@@ -34,7 +34,7 @@
 
 ## �🌊 Project Overview
 
-Wita serves as a digital ecosystem for marine professionals, researchers, and fishing communities by providing:
+Hwita serves as a digital ecosystem for marine professionals, researchers, and fishing communities by providing:
 
 - **🌐 Social Platform**: Modern social media interface with posts, messaging, and community features
 - **📊 IoT Dashboard**: Real-time monitoring of marine sensors and environmental data
