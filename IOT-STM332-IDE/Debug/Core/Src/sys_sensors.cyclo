@@ -1,0 +1,2 @@
+../Core/Src/sys_sensors.c:165:6:EnvSensors_Read	1
+../Core/Src/sys_sensors.c:206:7:EnvSensors_Init	1

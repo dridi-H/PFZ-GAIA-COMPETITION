@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/LoRaWAN/LmHandler/NvmCtxMgmt.c:140:6:NvmCtxMgmtEvent	16	static
+../Middlewares/Third_Party/LoRaWAN/LmHandler/NvmCtxMgmt.c:188:20:NvmCtxMgmtStore	4	static
+../Middlewares/Third_Party/LoRaWAN/LmHandler/NvmCtxMgmt.c:279:20:NvmCtxMgmtRestore	4	static

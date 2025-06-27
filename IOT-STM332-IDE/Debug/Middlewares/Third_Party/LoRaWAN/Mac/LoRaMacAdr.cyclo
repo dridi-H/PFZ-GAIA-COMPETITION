@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacAdr.c:37:13:CalcNextV10X	8
+../Middlewares/Third_Party/LoRaWAN/Mac/LoRaMacAdr.c:123:6:LoRaMacAdrCalcNext	2

@@ -1,0 +1,2 @@
+../LoRaWAN/App/lora_info.c:71:6:LoraInfo_Init	2
+../LoRaWAN/App/lora_info.c:136:13:LoraInfo_GetPtr	1

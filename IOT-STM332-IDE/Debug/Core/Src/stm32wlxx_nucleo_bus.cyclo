@@ -1,0 +1,16 @@
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:449:22:LL_AHB2_GRP1_EnableClock	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:914:22:LL_APB1_GRP1_EnableClock	1
+../Drivers/STM32WLxx_HAL_Driver/Inc/stm32wlxx_ll_bus.h:1018:22:LL_APB1_GRP1_DisableClock	1
+../Core/Src/stm32wlxx_nucleo_bus.c:90:9:BSP_I2C2_Init	6
+../Core/Src/stm32wlxx_nucleo_bus.c:138:9:BSP_I2C2_DeInit	4
+../Core/Src/stm32wlxx_nucleo_bus.c:166:9:BSP_I2C2_IsReady	2
+../Core/Src/stm32wlxx_nucleo_bus.c:187:9:BSP_I2C2_WriteReg	3
+../Core/Src/stm32wlxx_nucleo_bus.c:213:10:BSP_I2C2_ReadReg	3
+../Core/Src/stm32wlxx_nucleo_bus.c:241:9:BSP_I2C2_WriteReg16	3
+../Core/Src/stm32wlxx_nucleo_bus.c:266:10:BSP_I2C2_ReadReg16	3
+../Core/Src/stm32wlxx_nucleo_bus.c:291:9:BSP_I2C2_Send	3
+../Core/Src/stm32wlxx_nucleo_bus.c:316:9:BSP_I2C2_Recv	3
+../Core/Src/stm32wlxx_nucleo_bus.c:391:9:BSP_GetTick	1
+../Core/Src/stm32wlxx_nucleo_bus.c:397:26:MX_I2C2_Init	4
+../Core/Src/stm32wlxx_nucleo_bus.c:427:13:I2C2_MspInit	1
+../Core/Src/stm32wlxx_nucleo_bus.c:460:13:I2C2_MspDeInit	1
