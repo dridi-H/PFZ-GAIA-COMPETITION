@@ -85,7 +85,7 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 
 #### Environmental Monitoring
 ![Environmental Data](INTERFACES/EO-overview.png)
-*Real-time environmental condition tracking with alerts and historical trends*
+*Earth-Observation environmental condition tracking using CopernicusMarine API*
 
 #### Sensor Data Visualization
 ![Sensor Data](INTERFACES/Dashboard-1.png)
@@ -127,7 +127,7 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 <div align="center">
 
 #### User Directory
-![All Users](INTERFACES/users.png)
+![All Users](INTERFACES/Users.png)
 *Community user directory with search and filtering capabilities*
 
 
