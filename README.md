@@ -183,17 +183,17 @@ Experience the power and elegance of Wita through our comprehensive user interfa
 - User flows and navigation
 - Social features and content management
 
-📂 **[Dashboard Systems](./social_media_app/src/_root/pages/dashboards/README.md)** *(Planned)*
+📂 **[Dashboard Systems](./social_media_app/src/_root/pages/README.md)** *(Planned)*
 - IoT sensor monitoring
 - Earth observation data
 - Real-time analytics
 
-📂 **[Marketplace Module](./social_media_app/src/components/marketplace/README.md)** *(Planned)*
+📂 **[Marketplace Module](./social_media_app/src/components/README.md)** *(Planned)*
 - Item listings and search
 - Transaction management
 - User communications
 
-📂 **[Messaging System](./social_media_app/src/components/messaging/README.md)** *(Planned)*
+📂 **[Messaging System](./social_media_app/src/components/README.md)** *(Planned)*
 - Real-time chat
 - File sharing
 - Notification system
