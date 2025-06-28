@@ -73,7 +73,7 @@ graph TD
     C --> F[🌟 Trending]
     C --> G[👥 Users]
     
-    D --> H[✏️ Edit Profile]
+    D --> H[✏️ Edit Profile] 
     D --> I[💾 Saved Posts]
     D --> J[❤️ Liked Posts]
     
